@@ -1,9 +1,28 @@
 # G-Sat Payload
 
+# Payload Overview:
+
+The payload integrates advanced sensor technology optimized for small satellite platforms.
+
+Data collected will be transmitted to ground stations for processing and analysis.
+
+Results will be shared openly to support environmental policy and community awareness.
+
 ## Purpose
 
-The payload is the mission’s primary instrument or experiment. For G-Sat, options include:
+Our CubeSat payload is designed to monitor and analyze air quality and urban heat islands across the city of Leeds. By collecting high-resolution environmental data from space, we aim to provide valuable insights into urban climate patterns, pollution hotspots, and their impacts on public health and urban planning.
 
+## Objectives:
+
+Deploy sensors capable of detecting key air pollutants (e.g., NO2, PM2.5) and temperature variations.
+
+Map urban heat islands to understand how different areas of Leeds experience temperature extremes.
+
+Collaborate with local authorities, researchers, and communities to apply data for sustainable urban development.
+
+Contribute to the scientific understanding of urban environmental challenges through space-based observations.
+
+## Functions:
 - Low-resolution Earth imaging camera
 - Radiation or environmental sensors
 - Amateur radio repeater or digipeater
