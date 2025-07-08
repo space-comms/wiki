@@ -2,7 +2,7 @@
 
 ## Function
 
-The payload is the primary instrument or experiment for the mission. For G-Sat, options may include:
+The payload is the primary instrument or experiment for the mission. For LUCIA, options may include:
 
 - Low-resolution camera for Earth imaging
 - Radiation/environmental sensors

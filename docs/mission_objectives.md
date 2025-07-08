@@ -1,4 +1,4 @@
-# G-Sat Mission Objectives
+# LUCIA Mission Objectives
 
 1. **Education:** Provide a hands-on, open-source reference for CubeSat engineering.
 2. **Technology Demonstration:** Test and validate COTS hardware and open-source flight software in orbit.

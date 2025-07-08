@@ -1,10 +1,10 @@
-# LUCIA (Gryphon Satellite): Leeds CubeSat Project
+# LUCIA (Leeds Urban Climate Investigation Apparatus): Leeds CubeSat Project
 
 Welcome to the official repository for the Leeds Urban and Climate Investigation Apparatus ("LUCIA") project, developed by the Leeds Space // Comms Group at Leeds University. This open-source initiative aims to design, build, and launch a functional CubeSat, while providing a comprehensive educational resource on CubeSats and the complete satellite development process.
 
 ## Project Vision
 
-**LUCIA (Gryphon Satellite)** is an academic satellite mission intended to pioneer accessible space engineering at Leeds University. Our mission is not only to develop and launch a satellite, but to document every step, decision, and lesson so that future teams and independent learners can follow and build upon our work.
+**LUCIA (Leeds Urban Climate Investigation Apparatus)** is an academic satellite mission intended to pioneer accessible space engineering at Leeds University. Our mission is not only to develop and launch a satellite, but to document every step, decision, and lesson so that future teams and independent learners can follow and build upon our work.
 
 ## What is a CubeSat?
 
@@ -60,9 +60,9 @@ Building a CubeSat like LUCIA involves multiple phases and specialized subsystem
 
 ---
 
-## Why LUCIA ("Gryphon Satellite")?
+## Why LUCIA?
 
-The Gryphon is the emblem of Leeds, symbolizing vigilance, strength, and innovation. LUCIA aspires to embody these traits, marking Leeds University’s first foray into space with a mission built on transparency, collaboration, and education.
+LUCIA (Leeds Urban Climate Investigation Apparatus) represents Leeds University's commitment to urban climate research and space technology innovation. The mission aspires to mark Leeds University's first foray into space with a mission built on transparency, collaboration, and education, focusing on investigating urban climate patterns from low Earth orbit.
 
 ---
 

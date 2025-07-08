@@ -1,6 +1,6 @@
 # Subsystem Design: Overview
 
-Every CubeSat (including G-Sat) is comprised of key subsystems, each fulfilling a specialized function. Each subsystem is described on a dedicated page:
+Every CubeSat (including LUCIA) is comprised of key subsystems, each fulfilling a specialized function. Each subsystem is described on a dedicated page:
 
 - [Structure](Structure.md)
 - [Electrical Power System (EPS)](EPS.md)
@@ -17,6 +17,6 @@ Each subsystem section discusses:
 - Design trade-offs
 - Testing and integration
 
-If you’re new to satellite engineering, read through all sections to understand how G-Sat’s design decisions are made.
+If you’re new to satellite engineering, read through all sections to understand how LUCIA’s design decisions are made.
 
 ---

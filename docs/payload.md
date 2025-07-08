@@ -1,4 +1,4 @@
-# G-Sat Payload
+# LUCIA Payload
 
 # Payload Overview:
 

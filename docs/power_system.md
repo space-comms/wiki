@@ -1,4 +1,4 @@
-# G-Sat Power System (EPS)
+# LUCIA Power System (EPS)
 
 ## Power Generation
 

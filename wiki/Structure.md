@@ -6,7 +6,7 @@ The structure is the mechanical backbone of the CubeSat. It provides physical su
 
 ## Design Requirements
 
-- **Form Factor:** 1U (10x10x10 cm) for G-Sat
+- **Form Factor:** 1U (10x10x10 cm) for LUCIA
 - **Material:** Aerospace-grade aluminum (6061/7075) or composites
 - **Mass Budget:** Minimize while maintaining rigidity
 - **Launch Loads:** Must withstand vibration, shock, and G-forces

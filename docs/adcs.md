@@ -1,4 +1,4 @@
-# G-Sat Attitude Determination and Control System (ADCS)
+# LUCIA Attitude Determination and Control System (ADCS)
 
 ## Purpose
 
