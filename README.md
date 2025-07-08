@@ -68,11 +68,15 @@ The Gryphon is the emblem of Leeds, symbolizing vigilance, strength, and innovat
 
 ## References and Further Reading
 
-- [CubeSat Design Specification (CalPoly)](https://www.cubesat.org/s/CubeSat_Design_Specification_Rev14-The-First-Ten-Years.pdf)
-- [NASA CubeSat Launch Initiative](https://www.nasa.gov/content/cubesat-launch-initiative)
-- [ESA Academy: CubeSat Hands-On](https://www.esa.int/Education/ESA_Academy/CubeSat_Support)
+
+- [Mini Bible](https://www.mdpi.com/2076-3417/9/15/3110) - A good introduction to some key details about CubeSat missions
+- [CubeSat101](https://www.nasa.gov/wp-content/uploads/2017/03/nasa_csli_cubesat_101_508.pdf?emrc=05d3e2) - The Bible. Read this if you don't read anything else.
+- [How to make a CubeSat team](https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/University%20CubeSat%20Project%20Management%20for%20Success.pdf)
 - [AMSAT UK: Getting Started with Amateur Radio Satellites](https://amsat-uk.org/beginners/)
+- [CubeSat Design Specification (CalPoly)](https://www.cubesat.org/s/CubeSat_Design_Specification_Rev14-The-First-Ten-Years.pdf)
 - [Open Source Satellite Programme](https://www.opensourcesatellite.org/)
+- [RHIT-SmallSat](https://rose-bic.atlassian.net/wiki/spaces/SmallSat/overview?homepageId=9404872) - A student satellite team
+- [IIT Bombay Student Satellite Team](https://www.aero.iitb.ac.in/satelliteWiki/index.php/Building_the_Team) - Another student satellite
 
 ---
 
