@@ -1,4 +1,4 @@
-# CubeSat and G-Sat ("Gryphon Satellite") Overview
+# CubeSat and LUCIA Overview
 
 ## What is a CubeSat?
 
@@ -10,11 +10,11 @@ A **CubeSat** is a standardized nanosatellite platform, initially developed to f
 - Deployed with standardized launchers (P-POD, NanoRacks, etc.)
 - Used for education, technology demonstration, Earth observation, and science
 
-## The G-Sat Mission
+## The LUCIA Mission
 
 ### Mission Statement
 
-G-Sat (Gryphon Satellite) is Leeds University’s flagship CubeSat project, aiming to:
+LUCIA (Leeds Urban Climate Investigation Apparatus) is Leeds University’s flagship CubeSat project, aiming to:
 - Demonstrate the complete development and launch of a 1U CubeSat
 - Deliver a scientific or engineering payload to low Earth orbit
 - Document every step openly for educational purposes
@@ -22,7 +22,7 @@ G-Sat (Gryphon Satellite) is Leeds University’s flagship CubeSat project, aimi
 ### Project Phases
 
 1. **Concept & Feasibility**
-   - Identify mission goals, such as Earth imaging or communications.
+   - Identify mission goals, such as urban climate monitoring, Earth imaging, or atmospheric measurements.
    - Analyze requirements, constraints, and risks.
 2. **Design & Simulation**
    - Develop system architecture, select components.

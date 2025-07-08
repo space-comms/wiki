@@ -1,10 +1,10 @@
-# G-Sat Satellite Design Architecture
+# LUCIA Satellite Design Architecture
 
-Designing G-Sat involves defining the interfaces and integration of all major subsystems within the physical and operational constraints of a CubeSat.
+Designing LUCIA involves defining the interfaces and integration of all major subsystems within the physical and operational constraints of a CubeSat.
 
 ## System Architecture
 
-- **Structure:** The CubeSat frame is constructed from aerospace-grade aluminum or composite materials, providing rigidity, protection, and mounting for all subsystems. For G-Sat, we use a 1U standard.
+- **Structure:** The CubeSat frame is constructed from aerospace-grade aluminum or composite materials, providing rigidity, protection, and mounting for all subsystems. For LUCIA, we use a 1U standard.
 - **Subsystem Placement:** Careful layout is essential to maximize space, thermal management, and wiring efficiency.
 - **Modularity:** All boards and components are designed for easy integration and replacement.
 

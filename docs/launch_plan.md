@@ -1,4 +1,4 @@
-# G-Sat Launch and Deployment Plan
+# LUCIA Launch and Deployment Plan
 
 ## Launch Provider Options
 

@@ -1,4 +1,4 @@
-# G-Sat On-Board Computer (OBC)
+# LUCIA On-Board Computer (OBC)
 
 ## Purpose
 

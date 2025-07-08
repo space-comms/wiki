@@ -1,4 +1,4 @@
-# G-Sat Thermal Control
+# LUCIA Thermal Control
 
 ## Purpose
 

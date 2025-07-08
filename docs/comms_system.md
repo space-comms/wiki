@@ -1,8 +1,8 @@
-# G-Sat Communications System
+# LUCIA Communications System
 
 ## Overview
 
-Communications is vital for commanding the satellite and downloading data. G-Sat uses amateur radio bands for its primary link.
+Communications is vital for commanding the satellite and downloading data. LUCIA uses amateur radio bands for its primary link.
 
 ## Components
 
