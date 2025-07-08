@@ -1,10 +1,10 @@
-# G-Sat (Gryphon Satellite): Leeds CubeSat Project
+# LUCIA (Gryphon Satellite): Leeds CubeSat Project
 
-Welcome to the official repository for the G-Sat ("Gryphon Satellite") project, developed by the Leeds Space // Comms Group at Leeds University. This open-source initiative aims to design, build, and launch a functional CubeSat, while providing a comprehensive educational resource on CubeSats and the complete satellite development process.
+Welcome to the official repository for the Leeds Urban and Climate Investigation Apparatus ("LUCIA") project, developed by the Leeds Space // Comms Group at Leeds University. This open-source initiative aims to design, build, and launch a functional CubeSat, while providing a comprehensive educational resource on CubeSats and the complete satellite development process.
 
 ## Project Vision
 
-**G-Sat (Gryphon Satellite)** is an academic satellite mission intended to pioneer accessible space engineering at Leeds University. Our mission is not only to develop and launch a satellite, but to document every step, decision, and lesson so that future teams and independent learners can follow and build upon our work.
+**LUCIA (Gryphon Satellite)** is an academic satellite mission intended to pioneer accessible space engineering at Leeds University. Our mission is not only to develop and launch a satellite, but to document every step, decision, and lesson so that future teams and independent learners can follow and build upon our work.
 
 ## What is a CubeSat?
 
@@ -14,7 +14,7 @@ A CubeSat is a class of miniaturized satellite with standardized sizes and inter
 
 ## The CubeSat Development Process: Overview
 
-Building a CubeSat like G-Sat involves multiple phases and specialized subsystems. Here is a high-level overview:
+Building a CubeSat like LUCIA involves multiple phases and specialized subsystems. Here is a high-level overview:
 
 1. **Mission Concept and Requirements**
    - Define objectives, such as scientific goals or technology demonstrations.
@@ -44,7 +44,7 @@ Building a CubeSat like G-Sat involves multiple phases and specialized subsystem
 
 ---
 
-## G-Sat Subsystems: Detailed Descriptions
+## LUCIA Subsystems: Detailed Descriptions
 
 - See the `docs/` directory for in-depth guides and the [Wiki](../../wiki) for expanded tutorials and background.
 
@@ -60,9 +60,9 @@ Building a CubeSat like G-Sat involves multiple phases and specialized subsystem
 
 ---
 
-## Why G-Sat ("Gryphon Satellite")?
+## Why LUCIA ("Gryphon Satellite")?
 
-The Gryphon is the emblem of Leeds, symbolizing vigilance, strength, and innovation. G-Sat aspires to embody these traits, marking Leeds University’s first foray into space with a mission built on transparency, collaboration, and education.
+The Gryphon is the emblem of Leeds, symbolizing vigilance, strength, and innovation. LUCIA aspires to embody these traits, marking Leeds University’s first foray into space with a mission built on transparency, collaboration, and education.
 
 ---
 
