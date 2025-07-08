@@ -1,6 +1,6 @@
-# Welcome to the G-Sat (Gryphon Satellite) Wiki
+# Welcome to the LUCIA (Leeds Urban Climate Investigation Apparatus) Wiki
 
-This wiki is the comprehensive guide to the G-Sat (Gryphon Satellite) CubeSat project, led by the Leeds Space // Comms Group at Leeds University. Here you'll find everything needed to understand, design, build, and operate a CubeSat—from foundational concepts to deep technical details and step-by-step guides.
+This wiki is the comprehensive guide to the LUCIA (Leeds Urban Climate Investigation Apparatus) CubeSat project, led by the Leeds Space // Comms Group at Leeds University. Here you'll find everything needed to understand, design, build, and operate a CubeSat—from foundational concepts to deep technical details and step-by-step guides.
 
 ## Quick Navigation
 

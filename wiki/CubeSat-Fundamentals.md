@@ -18,9 +18,9 @@ A CubeSat is a standardized, modular, miniaturized satellite—typically built i
 3. **Integration & Testing:** Assemble and verify functionality and environmental robustness.
 4. **Launch & Operations:** Prepare for liftoff, deploy, and operate in orbit.
 
-## About G-Sat (Gryphon Satellite)
+## About LUCIA (Leeds Urban Climate Investigation Apparatus)
 
-G-Sat is the working title for Leeds University's first CubeSat. Named after the gryphon—a symbol of Leeds—the mission embodies innovation, teamwork, and academic excellence. G-Sat aims to deliver a practical payload to low Earth orbit and provide an open, step-by-step reference for all who follow.
+LUCIA (Leeds Urban Climate Investigation Apparatus) is Leeds University's first CubeSat mission. This mission embodies innovation, teamwork, and academic excellence, focusing on investigating urban climate patterns from space. LUCIA aims to deliver a practical payload to low Earth orbit and provide an open, step-by-step reference for all who follow.
 
 ---
 
