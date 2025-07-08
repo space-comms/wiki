@@ -74,6 +74,7 @@ The Gryphon is the emblem of Leeds, symbolizing vigilance, strength, and innovat
 - [How to make a CubeSat team](https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/University%20CubeSat%20Project%20Management%20for%20Success.pdf)
 - [AMSAT UK: Getting Started with Amateur Radio Satellites](https://amsat-uk.org/beginners/)
 - [CubeSat](https://www.cubesat.org/) - Official website for CubeSat
+- [CubeSat Poly Design](https://static1.squarespace.com/static/5418c831e4b0fa4ecac1bacd/t/56e9b62337013b6c063a655a/1458157095454/cds_rev13_final2.pdf) - CubeSat Design
 - [Open Source Satellite Programme](https://www.opensourcesatellite.org/)
 - [RHIT-SmallSat](https://rose-bic.atlassian.net/wiki/spaces/SmallSat/overview?homepageId=9404872) - A student satellite team
 - [IIT Bombay Student Satellite Team](https://www.aero.iitb.ac.in/satelliteWiki/index.php/Building_the_Team) - Another student satellite
