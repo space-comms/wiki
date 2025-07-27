@@ -1,26 +1,30 @@
-# LUCIA Thermal Control
+# Thermal Subsystem
 
-## Purpose
+## Function
 
-Maintain all components within operational temperature limits throughout the mission.
+Maintains all CubeSat components within their safe temperature range during all mission phases.
 
 ## Methods
 
-- **Passive Control:** Multi-layer insulation, surface coatings, thermal straps.
-- **Active Control:** Heaters for batteries/electronics, if necessary.
+- **Passive:** Insulation (MLI), surface coatings (paint, tape), thermal straps
+- **Active:** Resistive heaters (if needed), controlled by OBC
 
 ## Analysis
 
-- Thermal modeling for worst-case hot/cold scenarios (eclipse, sun exposure)
-- Placement of temperature sensors for real-time monitoring
+- Thermal modeling (software-based) for all mission phases
+- Identify hot/cold spots, worst-case scenarios (eclipse, sun-pointing)
+
+## Sensors
+
+- Multiple temperature sensors at key locations
 
 ## Testing
 
-- Thermal vacuum chamber cycling to simulate orbit conditions
+- Thermal vacuum (TVAC) cycling to simulate space conditions
 
 ---
 
-## References
+### References
 
-- [CubeSat Thermal Design](https://www.cubesat.org/)
-- [NASA Thermal Control Handbook](https://www.nasa.gov/)
+- [CubeSat Thermal Control](https://www.cubesat.org/)
+- [NASA Thermal Design Handbook](https://www.nasa.gov/)

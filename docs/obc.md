@@ -1,28 +1,35 @@
-# LUCIA On-Board Computer (OBC)
+# On-Board Computer (OBC)
 
-## Purpose
+## Function
 
-The OBC is the central processor for satellite control and data management.
+The OBC is the CubeSat’s brain, controlling all operations, handling data, and interfacing with other subsystems.
 
-## Components
+## Hardware
 
-- Microcontroller or microprocessor (ARM Cortex, MSP430, etc.)
-- Flash memory for program and data storage
+- Microcontroller (e.g., ARM Cortex-M, MSP430) or microprocessor (Raspberry Pi Compute Module)
+- Non-volatile storage (Flash, SD card) for software/data
 - Watchdog timers for fault recovery
 
 ## Software
 
-- Real-time operating system (RTOS) or bare-metal firmware
-- Task scheduling, telemetry, error handling, payload interface
+- Real-time OS (e.g., FreeRTOS) or custom firmware
+- Task scheduling, telemetry, health monitoring, error handling
+- Data handling for payload and subsystems
 
-## Redundancy
+## Redundancy and Fault Tolerance
 
-- Hardware and software watchdogs
-- Safe-mode fallback routines
+- Dual OBCs, if mass/power allow
+- Safe-mode routines, hardware and software watchdogs
+
+## Testing
+
+- Unit and integration tests for all software
+- Fault injection and recovery drills
+- In-orbit software upgrade capability (if possible)
 
 ---
 
-## References
+### References
 
-- [Open Source Satellite Programme: OBC](https://www.opensourcesatellite.org/)
-- [CubeSat Real-Time Operating Systems](https://www.nasa.gov/content/cubesat-launch-initiative)
+- [Open Source Satellite OBC](https://www.opensourcesatellite.org/)
+- [CubeSat OBC Design](https://www.cubesat.org/)

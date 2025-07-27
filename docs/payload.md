@@ -1,50 +1,32 @@
-# LUCIA Payload
+# Payload Subsystem
 
-# Payload Overview:
+## Function
 
-The payload integrates advanced sensor technology optimized for small satellite platforms.
+The payload is the primary instrument or experiment for the mission. For LUCIA, options may include:
 
-Data collected will be transmitted to ground stations for processing and analysis.
+- Low-resolution camera for Earth imaging
+- Radiation/environmental sensors
+- Amateur radio repeater
 
-Results will be shared openly to support environmental policy and community awareness.
+## Requirements
 
-## Purpose
+- Fit within allocated mass, volume, and power
+- Interface with OBC for command/data
+- Data rate and storage compatible with comms and OBC
 
-Our CubeSat payload is designed to monitor and analyze air quality and urban heat islands across the city of Leeds. By collecting high-resolution environmental data from space, we aim to provide valuable insights into urban climate patterns, pollution hotspots, and their impacts on public health and urban planning.
+## Data Path
 
-## Objectives:
+- Payload → OBC → Downlink (to ground)
+- Onboard data processing/compression as needed
 
-Deploy sensors capable of detecting key air pollutants (e.g., NO2, PM2.5) and temperature variations.
+## Testing
 
-Map urban heat islands to understand how different areas of Leeds experience temperature extremes.
-
-Collaborate with local authorities, researchers, and communities to apply data for sustainable urban development.
-
-Contribute to the scientific understanding of urban environmental challenges through space-based observations.
-
-## Functions:
-- Low-resolution Earth imaging camera
-- Radiation or environmental sensors
-- Amateur radio repeater or digipeater
-
-## Integration
-
-- Payload must fit within allocated mass, volume, and power budgets.
-- Interface definition with OBC for data collection and command.
-
-## Data Handling
-
-- Onboard processing to compress or filter data.
-- Telemetry downlink or onboard storage for later download.
-
-## Example: Earth Observation
-
-- Camera specification: CMOS, <2MP, wide-angle lens.
-- Data pipeline: Image capture -> onboard encoding -> downlink via UHF/S-band.
+- Laboratory simulations of expected performance
+- Interface testing with OBC and comms
 
 ---
 
-## References
+### References
 
-- [Open Source Satellite Programme Payloads](https://www.opensourcesatellite.org/)
-- [CubeSat Payload Integration](https://www.nasa.gov/content/cubesat-launch-initiative)
+- [Open Source Satellite Programme: Payload](https://www.opensourcesatellite.org/)
+- [CubeSat Payload Case Studies](https://www.nasa.gov/content/cubesat-launch-initiative)
