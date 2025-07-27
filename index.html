@@ -1,9 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Space Comms Wiki</title>
+
+  <!-- Docsify core -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+  <script>
+    window.$docsify = {
+      name: 'Space Comms Wiki',
+      repo: 'https://github.com/space-comms/wiki',
+      loadSidebar: true,
+      loadNavbar: true,
+      search: {
+        placeholder: 'Search in space comms...',
+        noData: 'No results!'
+      }
+    }
+  </script>
+
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
 </head>
 <body>
   <div id="app"></div>
