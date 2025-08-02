@@ -6,6 +6,7 @@
 |------|-------------|
 | **Project Lead** | Ahmad Al-Musbahi |
 | **ADCS Lead** | William Weller |
+| **ADCS Member** | Cole Rennison |
 | **Structural & Thermal Lead** | Joao Da Silva |
 | **Ground Station Lead** | Craig Barningham |
 | **Comms Lead** | *Open Position* |
