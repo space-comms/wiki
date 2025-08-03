@@ -9,7 +9,7 @@
 | **ADCS Member** | Cole Rennison |
 | **Structural & Thermal Lead** | Joao Da Silva |
 | **Ground Station Lead** | Craig Barningham |
-| **Comms Lead** | *Open Position* |
+| **Comms Lead** | Sean Ezeh |
 | **Comms Member** | *Open Position* |
 | **Power Lead** | *Open Position* |
 | **Payload Lead** | *Open Position* |
