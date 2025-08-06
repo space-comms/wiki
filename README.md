@@ -68,7 +68,7 @@ LUCIA (Leeds Urban Climate Investigation Apparatus) represents Leeds University'
 
 ## References and Further Reading
 
-
+- [Great Presentation on CubeSats by JAXA](https://www.unoosa.org/documents/pdf/psa/access2space4all/KiboCUBE/AcademySeason2/On-demand_Pre-recorded_Lectures/KiboCUBE_Academy_2022_OPL18.pdf)
 - [Mini Bible](https://www.mdpi.com/2076-3417/9/15/3110) - A good introduction to some key details about CubeSat missions
 - [CubeSat101](https://www.nasa.gov/wp-content/uploads/2017/03/nasa_csli_cubesat_101_508.pdf?emrc=05d3e2) - The Bible. Read this if you don't read anything else.
 - [How to make a CubeSat team](https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/University%20CubeSat%20Project%20Management%20for%20Success.pdf)

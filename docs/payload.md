@@ -2,17 +2,19 @@
 
 ## Function
 
-The payload is the primary instrument or experiment for the mission. For LUCIA, options may include:
+The payload is the primary instrument or experiment for the mission. For LUCIA this includes:
 
-- Low-resolution camera for Earth imaging
-- Radiation/environmental sensors
-- Amateur radio repeater
+- Wide Field Camera, designed for panoramic imaging and broad overviews of Leeds
+- Telephoto RGB Camera,, focused on high-resolution imaging capturing visual data with the goal of creating time series of 3D models of the urban landscape by photogrammetry
+- Infrared Camere, measuring surface temperatures around the city, deteching potential heat islands and assessing the impact of policy and climate change.
+- Image Processing Unit, responsible for capture and real-time processsing of the images. As an extention to traditional processing tasks, such as cropping and compression, we hope to use an ML model to intelligently filter, identify and tag relevant images for transmission, this would greatly optimise bandwidth.
+
+
+
 
 ## Requirements
 
-- Fit within allocated mass, volume, and power
-- Interface with OBC for command/data
-- Data rate and storage compatible with comms and OBC
+
 
 ## Data Path
 
@@ -23,6 +25,11 @@ The payload is the primary instrument or experiment for the mission. For LUCIA, 
 
 - Laboratory simulations of expected performance
 - Interface testing with OBC and comms
+
+
+# Wide Field Camera
+
+The wide field camera is for capturing the widescreen photos we love so much. It is designed to capture the entirety of Leeds and the West Yorkshire area. T
 
 ---
 
