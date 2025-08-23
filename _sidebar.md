@@ -10,12 +10,6 @@
   - [Amateur Radio](https://github.com/space-comms/Amateur-Radio)
 - [🌍 Outreach & Events](OUTREACH.md)
 
-## Project Documentation
-- [CubeSat Overview (LUCIA)](docs/cubesat_overview.md)
-- [LUCIA Team](docs/lucia_team.md)
-- [References](docs/References.md)
-- [Contributing](docs/CONTRIBUTING.md)
-
 ## Club Resources
 - [Funding & Sponsorship](docs/funding.md)
 - [Collaborations & Partnerships](docs/collaborations.md)
