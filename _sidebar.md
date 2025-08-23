@@ -3,7 +3,7 @@
 - [🏠 Home](README.md)
   - [📅 Events](EVENTS.md)
 - [🛰️ About](ABOUT.md)
-  - [Why We Exist](EVENTS.md)
+  - [Why We Exist](WHYWEEXIST.md)
 - [👥 Team](TEAM.md)
 - [📚 Projects](PROJECTS.md)
   - [Ground Station](https://github.com/space-comms/ground-station)
