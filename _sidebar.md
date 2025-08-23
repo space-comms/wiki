@@ -6,6 +6,8 @@
 - [📚 Projects](PROJECTS.md)
   - [LUCIA CubeSat](README.md)
   - [Ground Station](https://github.com/space-comms/ground-station)
+  - [Microwave Engineering](https://github.com/space-comms/Microwave-Engineering)
+  - [Amateur Radio](https://github.com/space-comms/Amateur-Radio)
 - [🌍 Outreach & Events](OUTREACH.md)
 
 ## Project Documentation
