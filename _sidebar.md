@@ -1,5 +1,3 @@
-
-# Space Comms Wiki
 - [🏠 Home](README.md)
   - [📅 Events](EVENTS.md)
 - [🛰️ About](ABOUT.md)
