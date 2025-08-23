@@ -2,7 +2,7 @@
 # Space Comms Wiki
 - [🏠 Home](README.md)
   - [📅 Events](EVENTS.md)
-  - [📅 Events](EVENTS.md)
+    - [📅 Events](EVENTS.md)
 - [🛰️ About](ABOUT.md)
 - [👥 Team](TEAM.md)
 - [📚 Projects](PROJECTS.md)
