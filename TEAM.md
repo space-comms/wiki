@@ -12,6 +12,7 @@ Our group is made up of passionate students, staff, and alumni from a range of d
 | Aritro Roy | Content Cell  | ------------- |
 | Taiyu | Content Cell  | ------------- |
 | Joao da Silva | Content Cell  | ------------- |
+| Lucy Benn | Content Cell  | ------------- |
 
 We are a merit-based group and only have roles for the sake of direction.
 All members are empowered to shape the vision of Leeds Space Comms.
