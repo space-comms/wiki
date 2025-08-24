@@ -8,3 +8,5 @@
   - [Ground Station](GROUNDSTATION.md)
   - [Microwave Engineering](MICROWAVEENGINEERING.md)
   - [Amateur Radio](AMATEURRADIO.md)
+ - Meetings
+   - [24th August 2025](2025-08-24.md)
