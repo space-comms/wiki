@@ -2,6 +2,7 @@
   - [📅 Events](EVENTS.md)
 - [🛰️ About](ABOUT.md)
   - [Why We Exist](WHYWEEXIST.md)
+  - [Valies](VALUES.md)
 - [👥 Team](TEAM.md)
 - [📚 Projects](PROJECTS.md)
   - [Ground Station](GROUNDSTATION.md)
