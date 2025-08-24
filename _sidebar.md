@@ -5,5 +5,5 @@
   - [Values](VALUES.md)
 - [👥 Team](TEAM.md)
 - [📚 Projects](PROJECTS.md)
- - Meetings
+ - [Meetings](MEETINGS.md)
    - [24th August 2025](2025-08-24.md)
