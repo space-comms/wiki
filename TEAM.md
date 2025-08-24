@@ -9,7 +9,7 @@ Our group is made up of passionate students, staff, and alumni from a range of d
 | Craig Barningham | Content Cell  | ------------- |
 | Kavisha | Content Cell  | ------------- |
 | Ahmad | Content Cell  | ------------- |
-| Roy | Content Cell  | ------------- |
+| Aritro Roy | Content Cell  | ------------- |
 | Taiyu | Content Cell  | ------------- |
 | Joao | Content Cell  | ------------- |
 
