@@ -15,3 +15,4 @@
 
 ## Other events
 - Visits on Tuesday evening to OARS and HADARS
+- Amateur Radio Field Trips
