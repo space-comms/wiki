@@ -1,7 +1,7 @@
 # Events
 
 Weekly Events
-- Amateur Radio Training Course (online and in-person in EEE 2.56)
+- Amateur Radio Training Course every Friday at 10 AM (online and in-person in EEE 2.56)
 
 Special Events Being Organised
 - RAYNET Events - 7th September
