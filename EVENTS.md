@@ -1,5 +1,8 @@
 # Events
 
+Weekly Events
+- Amateur Radio Training Course (online and in-person in EEE 2.56)
+
 Special Events Being Organised
 - RAYNET Events - 7th September
   - We have been invited by the Leeds RAYNET group to join for the Leeds Country Relay Race. 
