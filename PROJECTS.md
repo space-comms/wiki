@@ -10,5 +10,3 @@ We work on high frequency electronics.
 
 ## [Amateur Radio](https://github.com/space-comms/Amateur-Radio)
 We are ambassadors of the amateur radio community.
-
-Find more at [github.com/space-comms](https://github.com/space-comms).
