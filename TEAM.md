@@ -13,4 +13,7 @@ Our group is made up of passionate students, staff, and alumni from a range of d
 | Taiyu | Content Cell  | ------------- |
 | Joao | Content Cell  | ------------- |
 
+We are a merit-based group and only have roles for the sake of direction.
+All members are empowered to shape the vision of Leeds Space Comms.
+
 Want to join? [Contact us!](CONTACT.md)
