@@ -7,7 +7,7 @@ Our group is made up of passionate students, staff, and alumni from a range of d
 | William Weller | Yes         | M0XWI    |
 | Sean Ezeh | Yes  | M7ITQ |
 | Craig Barningham | Content Cell  | ------------- |
-| Kavisha | Content Cell  | ------------- |
+| Kavisha | Nope  | ------------- |
 | Ahmad | Content Cell  | ------------- |
 | Aritro Roy | Content Cell  | ------------- |
 | Taiyu | Content Cell  | ------------- |
