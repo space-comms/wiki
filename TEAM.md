@@ -2,7 +2,6 @@
 
 Our group is made up of passionate students, staff, and alumni from a range of disciplines. We value diversity, curiosity, and teamwork.
 
-
 | Member Name    | RSGB Member | Callsign |
 | -------------- | ----------- | -------- |
 | William Weller | Yes         | M0XWI    |
