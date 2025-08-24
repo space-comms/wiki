@@ -1,4 +1,3 @@
-#Leeds Space
 - [🏠 Home](README.md)
   - [📅 Events](EVENTS.md)
 - [🛰️ About](ABOUT.md)
