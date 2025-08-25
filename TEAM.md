@@ -10,7 +10,7 @@ Our group is made up of passionate students, staff, and alumni from a range of d
 | Kavisha | Nope  | ------------- |
 | Ahmad | Content Cell  | ------------- |
 | Aritro Roy | Content Cell  | ------------- |
-| Taiyu | Content Cell  | ------------- |
+| Taiyu Song | Content Cell  | ------------- |
 | Joao da Silva | Content Cell  | ------------- |
 | Lucy Benn | Content Cell  | ------------- |
 
