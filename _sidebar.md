@@ -2,7 +2,6 @@
   - [📅 Events](EVENTS.md)
 - [🛰️ About](ABOUT.md)
   - [Why We Exist](WHYWEEXIST.md)
-  - [Values](VALUES.md)
   - [Membership](MEMBERSHIP.md)
 - [👥 Team](TEAM.md)
 - [📚 Projects](PROJECTS.md)
