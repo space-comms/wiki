@@ -3,6 +3,7 @@
 - [🛰️ About](ABOUT.md)
   - [Why We Exist](WHYWEEXIST.md)
   - [Membership](MEMBERSHIP.md)
+- [Getting Started](GETTINGSTARTED.md)
 - [👥 Team](TEAM.md)
 - [📚 Projects](PROJECTS.md)
  - [Meetings](MEETINGS.md)
