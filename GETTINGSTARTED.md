@@ -28,4 +28,4 @@ Membership is also free for any UK licensed amateur who is in full time educatio
 
 Apply for a [free membership](https://www.rsgbshop.org/acatalog/RSGB-Under-21-Membership-488.html#SID=119) here!
 
-Our group is a [affiliated RSGB club with callsign M0LSC](https://thersgb.org/services/clubfinder/clubinfo/?callsign=M0LSC) which provides us many benefits such as insurance for running events.
+Our group is an [affiliated RSGB club with callsign M0LSC](https://thersgb.org/services/clubfinder/clubinfo/?callsign=M0LSC) which provides us many benefits such as insurance for running events.
