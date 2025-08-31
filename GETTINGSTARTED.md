@@ -13,6 +13,12 @@ your exam online at a time/date that suits you.
 
 Once you have passed your exam and have received official confirmation of your result, you can register on the [Ofcom licensing system](https://www.ofcom.org.uk/spectrum/radio-equipment/licensing-portals), choose your callsign and apply for your licence.
 
+## Exam fees
+The fee for each exam is as follows:
+- Foundation £35.50
+- Intermediate £39.00
+- Full Licence £45.00
+
 ## Preparing for the exam
 
 - [Mock Papers](https://rsgb.org/main/clubs-training/training-resources/mock-exams/)
