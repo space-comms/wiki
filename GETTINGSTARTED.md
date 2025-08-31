@@ -26,6 +26,6 @@ If you haven't done so already, this would be a great time to [join the RSGB](ht
 The RSGB offers UK licensed amateurs. who live in the UK and are under the age of 21 free membership of the Society. 
 Membership is also free for any UK licensed amateur who is in full time education in the UK and aged between 21-25. 
 
-Apply for a [Free membership](https://www.rsgbshop.org/acatalog/RSGB-Under-21-Membership-488.html#SID=119) here!
+Apply for a [free membership](https://www.rsgbshop.org/acatalog/RSGB-Under-21-Membership-488.html#SID=119) here!
 
 Our group is a [affiliated RSGB club with callsign M0LSC](https://thersgb.org/services/clubfinder/clubinfo/?callsign=M0LSC) which provides us many benefits such as insurance for running events.
