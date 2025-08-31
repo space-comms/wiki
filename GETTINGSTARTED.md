@@ -15,10 +15,12 @@ Once you have passed your exam and have received official confirmation of your r
 
 ## Preparing for the exam
 
-[Mock Papers](https://rsgb.org/main/clubs-training/training-resources/mock-exams/)
-[Practical Video Guides](https://rsgb.org/main/clubs-training/for-students/foundation/foundation-practicals-video-guides/)
-[Exam Syllabus](https://rsgb.services//public/exams/specifications/syllabus_2024_v1.6.pdf)
-[Foundation License Manual](https://www.rsgbshop.org/acatalog/The-Foundation-Licence-Manual-for-Radio-Amateurs-2322.html#SID=19)
+- [Mock Papers](https://rsgb.org/main/clubs-training/training-resources/mock-exams/)
+- [Practical Video Guides](https://rsgb.org/main/clubs-training/for-students/foundation/foundation-practicals-video-guides/)
+- [Exam Syllabus](https://rsgb.services//public/exams/specifications/syllabus_2024_v1.6.pdf)
+- [Foundation License Manual](https://www.rsgbshop.org/acatalog/The-Foundation-Licence-Manual-for-Radio-Amateurs-2322.html#SID=19)
+
+After passing your foundation licence exam, you can progress to your [intermediate](https://rsgb.org/main/clubs-training/for-students/intermediate/) and [full](https://rsgb.org/main/clubs-training/for-students/full/) licence.
 
 ## Join the RSGB!
 
