@@ -31,7 +31,7 @@ After passing your foundation licence exam, you can progress to your [intermedia
 
 ## Join the RSGB!
 
-If you haven't done so already, this would be a great time to [join the RSGB](https://rsgb.org/main/join-us/join-the-rsgb/). 
+Once you pass your foundation exam, it would be a great time to [join the RSGB](https://rsgb.org/main/join-us/join-the-rsgb/). 
 The RSGB offers UK licensed amateurs. who live in the UK and are under the age of 21 free membership of the Society. 
 Membership is also free for any UK licensed amateur who is in full time education in the UK and aged between 21-25. 
 
