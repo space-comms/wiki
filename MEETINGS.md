@@ -1,3 +1,5 @@
-# Meetings
-- [24th August 2025](2025-08-24.md)
+# Current Meetings
 - [7th October 2025](2025-10-07.md)
+
+# Past Meetings
+- [24th August 2025](2025-08-24.md)
