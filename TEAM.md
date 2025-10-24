@@ -5,14 +5,14 @@ Our group is made up of passionate students, staff, and alumni from a range of d
 | Member Name    | RSGB Member | Callsign |
 | -------------- | ----------- | -------- |
 | William Weller | Yes         | M0XWI    |
-| Sean Ezeh | Yes  | M7ITQ |
-| Craig Barningham | Content Cell  | ------------- |
-| Kavisha | Nope  | ------------- |
-| Ahmad | Content Cell  | ------------- |
-| Aritro Roy | Content Cell  | ------------- |
-| Taiyu Song | Content Cell  | ------------- |
-| Joao da Silva | Content Cell  | ------------- |
-| Lucy Benn | Content Cell  | ------------- |
+| Sean Ezeh | -----------  | M7ITQ |
+| Lucy Benn | -----------  | M7LCQ |
+| Aritro Roy | -----------  | M7RIQ |
+| Chanel Clarke | -----------  | M7IYA |
+| Lee Mason  | -----------  | M1AJA |
+| Hardy Whiteley-Boocock | -----------  | G5HWB |
+| Leandro Soares Indrusiak | -----------  | G5LSI |
+
 
 We are a merit-based group and only have roles for the sake of direction.
 All members are empowered to shape the vision of Leeds Space Comms.
