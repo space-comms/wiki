@@ -25,7 +25,7 @@ Leeds Space Comms runs several projects. Explore our work and get involved!
 - running workshops in g.68 will require all participants to undertake a h&s tutorial
 - completing a risk assessment
 
-# ARISS Contact
+## ARISS Contact
 - this work is in preparation for our application for an ARISS contact
   
 ## Amateur Radio Shack at the University
