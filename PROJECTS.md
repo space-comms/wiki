@@ -39,6 +39,10 @@ Leeds Space Comms runs several projects. Explore our work and get involved!
 
 ## QO-100 Microwave Satellite Ground Station
 - We want to create a microwave satellite ground station for decoding the QO-100, a geostationary amateur radio satellite.
+- https://www.pabr.org/radio/qo100sdr/qo100sdr.en.html#
+
+## SDR reception of Digital Amateur TV from the ISS
+- https://www.pabr.org/radio/softdatv/softdatv.en.html
 
 ## ARISS Contact
 - The ultimate goal of Leeds Space Comms, where will make an amateur radio contact with astronauts aboard the International Space  Station.
