@@ -46,6 +46,9 @@ Leeds Space Comms runs several projects. Explore our work and get involved!
 
 ## ARISS Contact
 - The ultimate goal of Leeds Space Comms, where will make an amateur radio contact with astronauts aboard the International Space  Station.
-  
+
+## ISS APRS Packet Operation
+- https://www.ariss.org/uploads/1/9/6/8/19681527/k9jkm_2012_symposium_ver2.pdf
+
 ## Amateur Radio Shack at the University
 - To establish our group long-term at the University of Leeds, we want our own amateur radio shack.
