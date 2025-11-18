@@ -18,3 +18,5 @@
 - EME Event
 - HADARS Visit
 - National Radio Centre
+- Broadcast Engineering Conversation Group
+- Dr. Tim Amsdon Talk
