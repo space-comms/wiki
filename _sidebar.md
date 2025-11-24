@@ -7,6 +7,7 @@
 - [👥 Team](TEAM.md)
 - [📚 Projects](PROJECTS.md)
  - [Meetings](MEETINGS.md)
+   - [25th November 2025](2025-11-25.md)
    - [18th November 2025](2025-11-18.md)
    - [11th November 2025](2025-11-11.md)
    - [4th November 2025](2025-11-04.md)
