@@ -1,7 +1,9 @@
-# Committee Meetings
+# Meetings
+
+## Committee Meetings
 - [6th December 2025](2025-12-06.md)
 
-# Team Meetings
+## Team Meetings
 - [2nd December 2025](2025-12-02.md)
 - [25th November 2025](2025-11-25.md)
 - [18th November 2025](2025-11-18.md)
