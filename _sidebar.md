@@ -4,6 +4,7 @@
   - [Why We Exist](WHYWEEXIST.md)
   - [Membership](MEMBERSHIP.md)
 - [Getting Started](GETTINGSTARTED.md)
+- [Emails](Emails.md)
 - [👥 Team](TEAM.md)
 - [📚 Projects](PROJECTS.md)
  - [Meetings](MEETINGS.md)
