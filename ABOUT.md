@@ -6,7 +6,7 @@ Our mission is to bridge the skills gap for students, foster collaboration, and 
 
 # Our Philosophy
 
-- Grow the pie for members, the uni, and the wider space-comms community
-- Learn as much as possible, and share what you learn
-- Just be useful to the mission and to each other
+- Grow the pie
+- Learn as much as possible
+- Just be useful
 - Experiment boldy, deliver reliably
