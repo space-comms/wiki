@@ -6,6 +6,7 @@ Committee Meetings
 - [6th December 2025](2025-12-06.md)
 
 Team Meetings
+- [9th February 2026](2026-02-09.md)
 - [2nd February 2026](2026-02-02.md)
 - [27th January 2026](2026-01-27.md)
 - [20th January 2026](2026-01-20.md)
