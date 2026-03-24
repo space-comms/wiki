@@ -8,6 +8,7 @@
 - [👥 Team](TEAM.md)
 - [📚 Projects](PROJECTS.md)
  - [Meetings](MEETINGS.md)
+   - [24th March 2026](2026-03-24.md)
    - [24th February 2026](2026-02-24.md)
    - [17th February 2026](2026-02-17.md)
    - [9th February 2026](2026-02-09.md)  
